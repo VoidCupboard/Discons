@@ -1,0 +1,198 @@
+@font-face {
+  font-family: 'Discons';
+  src:  url('fonts/Discons.eot?9on00h');
+  src:  url('fonts/Discons.eot?9on00h#iefix') format('embedded-opentype'),
+    url('fonts/Discons.ttf?9on00h') format('truetype'),
+    url('fonts/Discons.woff?9on00h') format('woff'),
+    url('fonts/Discons.svg?9on00h#Discons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Discons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dc-android-q:before {
+  content: "\e935";
+}
+.dc-arco:before {
+  content: "\e914";
+}
+.dc-alma-linux:before {
+  content: "\e92b";
+}
+.dc-qubes:before {
+  content: "\e92c";
+}
+.dc-void:before {
+  content: "\e92d";
+}
+.dc-download:before {
+  content: "\e936";
+}
+.dc-moon-solid:before {
+  content: "\e929";
+}
+.dc-sun-solid:before {
+  content: "\e92a";
+}
+.dc-eye-solid:before {
+  content: "\e91f";
+}
+.dc-bolt-solid:before {
+  content: "\e920";
+}
+.dc-clipboard-solid:before {
+  content: "\e927";
+}
+.dc-code-solid:before {
+  content: "\e928";
+}
+.dc-tizen:before {
+  content: "\e925";
+}
+.dc-lineage-os:before {
+  content: "\e923";
+}
+.dc-ios:before {
+  content: "\e91c";
+}
+.dc-ubuntu:before {
+  content: "\e91b";
+}
+.dc-feren:before {
+  content: "\e915";
+}
+.dc-mx-linux:before {
+  content: "\e919";
+}
+.dc-kde:before {
+  content: "\e916";
+}
+.dc-parrot:before {
+  content: "\e90e";
+}
+.dc-miui:before {
+  content: "\e922";
+}
+.dc-linux-lite:before {
+  content: "\e930";
+}
+.dc-kali-linux:before {
+  content: "\e931";
+}
+.dc-endless:before {
+  content: "\e932";
+}
+.dc-elementary:before {
+  content: "\e933";
+}
+.dc-bunsen-labs:before {
+  content: "\e934";
+}
+.dc-sabayon:before {
+  content: "\e90f";
+}
+.dc-debain:before {
+  content: "\e904";
+}
+.dc-cent:before {
+  content: "\e90d";
+}
+.dc-mageia:before {
+  content: "\e909";
+}
+.dc-ubuntu-kylin:before {
+  content: "\e90a";
+}
+.dc-havoc-os:before {
+  content: "\e921";
+}
+.dc-apline:before {
+  content: "\e91d";
+}
+.dc-xubuntu:before {
+  content: "\e918";
+}
+.dc-lubuntu:before {
+  content: "\e913";
+}
+.dc-zorin:before {
+  content: "\e917";
+}
+.dc-lxle:before {
+  content: "\e91a";
+}
+.dc-reborn:before {
+  content: "\e910";
+}
+.dc-linux-mint:before {
+  content: "\e92e";
+}
+.dc-devuan:before {
+  content: "\e92f";
+}
+.dc-fedora:before {
+  content: "\e90c";
+}
+.dc-manjaro:before {
+  content: "\e90b";
+}
+.dc-kubuntu:before {
+  content: "\e900";
+}
+.dc-deepin:before {
+  content: "\e901";
+}
+.dc-budgie:before {
+  content: "\e902";
+}
+.dc-endeavour-os:before {
+  content: "\e903";
+}
+.dc-pop-os:before {
+  content: "\e905";
+}
+.dc-mate:before {
+  content: "\e906";
+}
+.dc-arch-linux:before {
+  content: "\e907";
+}
+.dc-qtile:before {
+  content: "\e908";
+}
+.dc-nix:before {
+  content: "\e91e";
+}
+.dc-dwm:before {
+  content: "\e912";
+}
+.dc-cinnamon:before {
+  content: "\e911";
+}
+.dc-post-market-os:before {
+  content: "\e926";
+}
+.dc-bliss:before {
+  content: "\e924";
+}
+.dc-github:before {
+  content: "\eab0";
+}
+.dc-windows:before {
+  content: "\eac2";
+}
